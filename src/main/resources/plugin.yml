@@ -1,0 +1,8 @@
+main: magicwands.MagicWands
+name: Wands
+version: 1.0
+description: Magic is in the air.
+commands:
+   wand:
+     description: create a powerfull wand
+depend: [ItemNBTAPI]
